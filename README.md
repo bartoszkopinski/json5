@@ -1,6 +1,6 @@
-# Json5
+# JSON5
 
-TODO: Write a gem description
+JSON5 parser for Ruby
 
 ## Installation
 
@@ -18,11 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+See http://json5.org/ for details
 
 ## Contributing
 
-1. Fork it ( http://github.com/<my-github-username>/json5/fork )
+1. Fork it ( http://github.com/bartoszkopinski/json5/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

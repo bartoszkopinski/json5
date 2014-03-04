@@ -8,9 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = JSON5::VERSION
   spec.authors       = ["Bartosz Kopinski"]
   spec.email         = ["bartosz.kopinski@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{JSON5 parser in Ruby}
+  spec.homepage      = "http://json5.org/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
