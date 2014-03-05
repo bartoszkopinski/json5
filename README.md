@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-```ruby
+```js
 JSON5.parse(<<-JSON5)
 {
     foo: 'bar',
