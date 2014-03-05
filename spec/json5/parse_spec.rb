@@ -2,7 +2,7 @@ require 'spec_helper'
 
 describe JSON5 do
   def parseJSON5
-    JSON5.new.parse(@str)
+    JSON5.parse(@str)
   end
 
   def parseJSON

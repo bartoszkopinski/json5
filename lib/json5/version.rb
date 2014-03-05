@@ -1,3 +1,3 @@
-class JSON5
+module JSON5
   VERSION = "0.0.1"
 end
