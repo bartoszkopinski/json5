@@ -1,5 +1,3 @@
-require "json5/version"
-
-module JSON5
-  # Your code goes here...
-end
+require 'json5/version'
+require 'json5/parse'
+require 'json5/stringify'
